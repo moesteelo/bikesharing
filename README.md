@@ -1,2 +1,3 @@
-# bikesharing
-Using Tableau to create dynamic visualization of a bike sharing project 
+# bikesharing 	:bike: :cityscape:
+# **Overview**
+The purpose of this project is to analyze how 
