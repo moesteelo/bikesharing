@@ -14,3 +14,14 @@ The purpose of this project is to analyze citi bike data to highlight key metric
 ![public tableau com_app_(8) ](https://user-images.githubusercontent.com/91576834/151724640-1ff65e6a-3bd6-4610-b610-1b5894444cad.png)
 ![public tableau com_app_ (6)](https://user-images.githubusercontent.com/91576834/151724647-92747cbb-05e7-42aa-a9bc-ca791676b606.png)
 ![public tableau com_app_(7)](https://user-images.githubusercontent.com/91576834/151724763-b830af90-34b3-4f68-b130-f9da837e045c.png)
+
+# **Summary**
+
+There are several key metrics investors should focus on to start a bike sharing comapny:
+* Majority of bike stations should be easily accesbile 
+  * In safe traffic locations
+  * As well as propperly well lighted areas for the safety of ride sharing customers
+  * Bikes can be easily checked in and out by app or by pay station
+* Bike stations should always enough invenory during peak hours which are 6am-9am and 5pm-8pm
+  * This is due to traditional work schedules
+  * Offer exclusive deals for reoccuring bike share riders!
