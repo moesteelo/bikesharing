@@ -10,8 +10,8 @@ The purpose of this project is to analyze citi bike data to highlight key metric
 ![public tableau com 2 ](https://user-images.githubusercontent.com/91576834/151724572-b8fabb5c-4f23-45b0-8d46-d77bd748ab70.png)
 ![public tableau com_app_ 3 ](https://user-images.githubusercontent.com/91576834/151724581-bb1e71df-31a6-446a-8fc2-654bd3622089.png)
 ![public tableau com_app_ (4)](https://user-images.githubusercontent.com/91576834/151724593-c1496b35-0147-414a-af6c-cd558e7f6dcc.png)
-![public ta![Screen Shot 2022-01-29 at 4 50 58 PM](https://user-images.githubusercontent.com/91576834/152890621-6f894297-ee32-47d6-8cbf-4a14b4727852.png)
-
+![public tableau com_app_(8) ](https://user-images.githubusercontent.com/91576834/151724640-1ff65e6a-3bd6-4610-b610-1b5894444cad.png)
+![public tableau com_app_ (6)](https://user-images.githubusercontent.com/91576834/151724647-92747cbb-05e7-42aa-a9bc-ca791676b606.png)
 ![public tableau com_app_(7)](https://user-images.githubusercontent.com/91576834/151724763-b830af90-34b3-4f68-b130-f9da837e045c.png)
 
 # **Summary**
