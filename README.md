@@ -19,11 +19,11 @@ The purpose of this project is to analyze citi bike data to highlight key metric
 There are several key metrics investors should focus on to start a bike sharing comapny:
 * Majority of bike stations should be easily accesbile 
   * In safe traffic locations
-  * As well as propperly well lighted areas for the safety of ride sharing customers
+  * As well as properly well lighted areas for the safety of ride sharing customers
   * Bikes can be easily checked in and out by app or by pay station
-* Bike stations should always enough invenory during peak hours which are 6am-9am and 5pm-8pm
+* Bike stations should always have enough inventory during peak hours which are 6am-9am and 5pm-8pm
   * This is due to traditional work schedules
-  * Offer exclusive deals for reoccuring bike share riders!
+  * Offer exclusive deals for recuring bike share riders!
 
 
 # Resources
