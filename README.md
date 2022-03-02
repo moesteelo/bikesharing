@@ -24,3 +24,10 @@ There are several key metrics investors should focus on to start a bike sharing 
 * Bike stations should always enough invenory during peak hours which are 6am-9am and 5pm-8pm
   * This is due to traditional work schedules
   * Offer exclusive deals for reoccuring bike share riders!
+
+
+# Resources
+
+- **[Citi Bike System Data](https://www.citibikenyc.com/system-data)** 
+
+- **[Citi Bike Data.CSV](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)**
